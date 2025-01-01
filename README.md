@@ -6,18 +6,7 @@ This project evaluates the performance of different machine learning models for 
 - **Support Vector Machine (SVM)**
 - **Random Forest**
 
-Additionally, the project includes **A/B testing** to statistically compare the performance of the models and determine which performs better in terms of classification accuracy.
-
-## Key Features:
-- **Data Preprocessing:** The dataset is cleaned, encoded, and split into training and testing sets.
-- **Model Training:** The models are trained using the preprocessed data, and their accuracy is evaluated.
-- **A/B Testing:** Paired t-tests are performed to compare the performance of different models. This allows us to statistically assess the difference in accuracy between the models.
-- **Model Evaluation:** The models are evaluated based on their accuracy, precision, recall, F1-score, and confusion matrices.
-
-
-## Project Overview
-
-The goal of this project is to predict whether a tumor is malignant or benign based on various features extracted from breast cancer biopsy data. The dataset is pre-processed, and three machine learning models are applied. The models are then evaluated using performance metrics such as accuracy, confusion matrix, and classification report. A paired t-test is also used to check if there are statistically significant differences in performance between the models.
+Additionally, the project includes **A/B testing** to statistically compare the performance of the models and determine which performs better in terms of classification accuracy. The goal of this project is to predict whether a tumor is malignant or benign based on various features extracted from breast cancer biopsy data. The dataset is pre-processed, and three machine learning models are applied. The models are then evaluated using performance metrics such as accuracy, confusion matrix, and classification report. 
 
 ### Key Steps
 
