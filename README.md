@@ -1,7 +1,19 @@
-# Model-Comparison
-# Breast Cancer Classification: Model Comparison and Statistical Analysis
+# Breast-Cancer-Model-Evaluation-and-AB-Testing
 
-This project involves building and evaluating different machine learning models to predict the diagnosis of breast cancer using a publicly available dataset. The main focus is on comparing the performance of three models: **Logistic Regression**, **Support Vector Machine (SVM)**, and **Random Forest Classifier**. Additionally, a statistical analysis (paired t-test) is performed to assess the significance of the differences between the models' performance.
+This project evaluates the performance of different machine learning models for breast cancer classification using a dataset from [source]. The models compared include:
+
+- **Logistic Regression**
+- **Support Vector Machine (SVM)**
+- **Random Forest**
+
+Additionally, the project includes **A/B testing** to statistically compare the performance of the models and determine which performs better in terms of classification accuracy.
+
+## Key Features:
+- **Data Preprocessing:** The dataset is cleaned, encoded, and split into training and testing sets.
+- **Model Training:** The models are trained using the preprocessed data, and their accuracy is evaluated.
+- **A/B Testing:** Paired t-tests are performed to compare the performance of different models. This allows us to statistically assess the difference in accuracy between the models.
+- **Model Evaluation:** The models are evaluated based on their accuracy, precision, recall, F1-score, and confusion matrices.
+
 
 ## Project Overview
 
