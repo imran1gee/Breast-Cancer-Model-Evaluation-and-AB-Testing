@@ -1,6 +1,6 @@
 # Breast-Cancer-Model-Evaluation-and-AB-Testing
 
-This project evaluates the performance of different machine learning models for breast cancer classification using a dataset from [source]. The models compared include:
+This project evaluates the performance of different machine learning models for breast cancer classification using a dataset. The models compared include:
 
 - **Logistic Regression**
 - **Support Vector Machine (SVM)**
