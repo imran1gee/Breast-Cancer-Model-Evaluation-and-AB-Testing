@@ -69,4 +69,4 @@ The dataset used in this project is the **Breast Cancer Wisconsin dataset** (ava
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Breast-Cancer-Classification.git
+   git clone https://github.com/imran1gee/Breast-Cancer-Classification.git
