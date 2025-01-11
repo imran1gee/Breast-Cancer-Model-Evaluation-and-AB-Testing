@@ -65,7 +65,7 @@ The dataset used in this project is the **Breast Cancer Wisconsin dataset** (ava
 
 - **Source**: [Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
 
-- # Breast Cancer Model Evaluation and A/B Testing
+- # Conclusion
 
 In this project, we evaluated the performance of breast cancer classification models using **Logistic Regression**, **Random Forest**, and **Support Vector Machines (SVM)**. Through rigorous evaluation metrics and A/B testing, we achieved the following insights:
 
